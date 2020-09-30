@@ -1,6 +1,7 @@
 PSET2:
 Introduction to arrays in C,
 
-Readability, computes the grade needed to comprehend a text by counting the number of words, letters and words of a passege and using the Coleman-Liau index.
+Readability, computes the grade needed to comprehend a text by counting the number of words, 
+letters and words of a passege calculating the grade using the Coleman-Liau index.
 
 Ceaser, encrypts messages using Caesar’s cipher
