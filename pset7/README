@@ -3,4 +3,4 @@ Introduction to SQL
 
 Movies, use SQL to answer questions from a database of movies from IMDb
 
-Houses, import student data into a databse to produce a roster
+Houses, import.py imports student data from a csv file  into a database. roster.py brings up the roster from the database.
