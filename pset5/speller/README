@@ -1,4 +1,4 @@
 PSET5:
 Data structures
 
-Speller, spell checks a file, using a hashtable.
+Speller, dictionary.c spell checks a file, using a hashtable.
