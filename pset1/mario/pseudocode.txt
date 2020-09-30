@@ -1,0 +1,20 @@
+//height = h//
+//rows = r//
+
+1. prompt user for height in int
+2. Ensure height is between 1 to 8
+        if, between 1 to 8 go to step 3
+        else, return to step 1
+
+3. Building pyramid
+        for
+                //get_int = \n << i << " "//
+
+                if
+                print " "
+
+                else
+                print #
+
+
+
