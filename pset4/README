@@ -1,6 +1,6 @@
 PSET4:
 Introduction to pointers and how memory works.
 
-Filter, Implement a program that applies filters to bitmaps (BMPs)
+Filter, helpers.c Implement a program that applies filters(greyscale, sepia, mirror and blur) to bitmaps (BMPs)
 
 Recover, recovers JPEGs from a forensic image.
