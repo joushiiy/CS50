@@ -1,0 +1,5 @@
+In the web track I am given the basics of HTTP, HTML, CSS, JavaScript, Flask and Databases to create 2 projects.
+
+Homepage: A 4 page website that introduces myself, my favorite hobby or extracurricular, or anything else of interest to me.
+
+Finance: Implement a website via which users can “buy” and “sell” stocks with virtual money that is updated real time by querying IEX for stocks’ prices.
